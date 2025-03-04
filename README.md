@@ -10,10 +10,18 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahul-269&theme=vision-friendly-dark&hide_border=true)<br/>
-![](?username=rahul-269&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](?username=rahul-269&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 [<!--<br/>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul-269&theme=vision_friendly_dark)-->](http://www.github.com/rahul-269)
 
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-269&langs_count=5&theme=vision-friendly-dark&hide_border=true)]()-->
+
+
+
 ---
-[![](https://visitcount.itsvg.in/api?id=rahul-269&icon=5&color=6)](https://visitcount.itsvg.in)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frahul-269&count_bg=%23310986&title_bg=%23310986&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
