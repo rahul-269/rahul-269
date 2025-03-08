@@ -1,4 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:1F1B7F,100:6A1DFF)
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32%&pause=200&color=6A1DFF&center=true&vCenter=true&width=600&height=32%&lines=Hello+there+!;My+name+is+Rahul;Welcome+to+My+Profile+!;" alt="Typing SVG" /></a>
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on Cravin.<br>🤝 I’m open to collaborating on Web Projects.<br>🌍 I'm based in Dubai.<br>✉️ You can contact me at [dev.rahulnarayan@gmail.com](mailto:dev.rahulnarayan@gmail.com)<br>⚡ Fun fact : All Birds are dinosaurs, but not all dinosaurs are birds. All dinosaurs are reptiles, but not all reptiles are dinosaurs. 
 
