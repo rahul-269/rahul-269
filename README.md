@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on Cravin.<br>🤝 I’m open to collaborating on Web Projects.<br>🌍 I'm based in Dubai.<br>✉️ You can contact me at [dev.rahulnarayan@gmail.com](mailto:dev.rahulnarayan@gmail.com)<br>⚡ Fun fact : All Birds are dinosaurs, but not all dinosaurs are birds. All dinosaurs are reptiles, but not all reptiles are dinosaurs. 
+🔭 I’m currently working on Cravin.<br>🤝 I’m open to collaborating on Web Projects.<br>🌍 I'm based in Dubai.<br>✉️ You can contact me at [dev.rahulnarayan@gmail.com](mailto:dev.rahulnarayan@gmail.com)<br>⚡ Fun fact : All birds are dinosaurs, but not all dinosaurs are birds. All dinosaurs are reptiles, but not all reptiles are dinosaurs. 
 
 
 <!--## 🌐 Socials:
