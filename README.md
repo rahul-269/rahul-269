@@ -33,6 +33,7 @@
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul-269&theme=highcontrast&hide_border=true)-->
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frahul-269&count_bg=%23310986&title_bg=%23310986&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+![](https://komarev.com/ghpvc/?username=rahul-269&color=blueviolet)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:1F1B7F,100:6A1DFF&section=footer)
 
