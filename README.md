@@ -37,9 +37,3 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:1F1B7F,100:6A1DFF&section=footer)
 
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
